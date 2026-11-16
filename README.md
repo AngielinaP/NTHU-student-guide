@@ -1,7 +1,7 @@
 # NTHU Fieldnotes — Student Survival Guide
 An unofficial English-language guide for National Tsing Hua University students in Hsinchu, Taiwan. Six guide pages cover course selection, study spaces, transport, dorm life, budgeting, and international student support.
 
-Website: https://nthu-student-field-guide.angiepcnl.chatgpt.site
+Website: 
 
 ## Features
 Search and category filters; accessible, responsive pages; a first-week checklist with progress; per-guide saved checklists; links to official university sources. No login or database. Checklist data stays in the current browser. External fonts are optional and have local fallbacks.
