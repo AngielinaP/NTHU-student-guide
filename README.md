@@ -19,13 +19,6 @@ Open http://localhost:8000. To stop the server, press Ctrl+C.
 ## Add a guide
 Read AGENTS.md. Copy the schema in templates/guide-template.json into content/guides.json and fill in verified content. Run the build and validator. The new guide is automatically added to the homepage, search, and category filters. No manual homepage card is necessary.
 
-## Publish on GitHub Pages
-1. Create a public repository named `nthu-student-guide` with default branch `main`.
-2. Upload this project's contents at the repository root (not the containing folder). Include `.github/workflows/pages.yml`.
-3. In the repository's Settings → Pages, select GitHub Actions as the source.
-4. Push to main or manually run “Deploy guide to GitHub Pages” in Actions.
-5. Wait for successful deployment and use the actual URL shown by GitHub Pages.
-
 The workflow builds and validates `dist/` before deployment. All local URLs are relative, so a repository subpath works. The separate `.openai/hosting.json` configuration is only used by Sites; GitHub Pages ignores it.
 
 ## Content policy and attribution
