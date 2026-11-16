@@ -1,0 +1,48 @@
+{
+  "slug": "new-guide-topic",
+  "title": "A helpful title for your new guide.",
+  "short": "New guide topic",
+  "category": "Academics",
+  "icon": "07",
+  "summary": "Explain the reader benefit in one sentence.",
+  "intro": "Start with your program requirements, then build a realistic weekly schedule. Course availability and enrollment rules depend on your student status and the current semester.",
+  "steps": [
+    [
+      "Start with the requirements",
+      "List your required courses and check prerequisites with your department. Separate must-take courses from electives before planning your week."
+    ],
+    [
+      "Read the current enrollment guide",
+      "Use the Curriculum Division’s New Student Navigator for the registration process, account access guidance, and common enrollment problems. Record the dates that apply to you."
+    ],
+    [
+      "Check the details before adding",
+      "Confirm the teaching language, campus, classroom, assessment method, and possible timetable conflicts. Leave travel time between campuses."
+    ],
+    [
+      "Verify your final enrollment",
+      "After each selection stage, check the actual enrollment result. Save your final timetable and check the instructor’s announced learning platform."
+    ]
+  ],
+  "tips": [
+    "Keep a backup elective in case a class is full.",
+    "A course on your planning list is not proof that you are enrolled."
+  ],
+  "checklist": [
+    "Read my program requirements",
+    "Check current registration dates",
+    "Prepare a backup course",
+    "Verify my final enrollment"
+  ],
+  "sources": [
+    [
+      "NTHU New Student Navigator",
+      "https://curricul.site.nthu.edu.tw/p/404-1208-307835.php?Lang=en"
+    ],
+    [
+      "Curriculum Division",
+      "https://curricul.site.nthu.edu.tw/index.php?Lang=en"
+    ]
+  ],
+  "updated": "2026-11-16"
+}

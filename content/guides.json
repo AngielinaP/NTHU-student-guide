@@ -1,0 +1,279 @@
+[
+  {
+    "slug": "course-selection",
+    "title": "Make your timetable work for you.",
+    "short": "Course selection",
+    "category": "Academics",
+    "icon": "01",
+    "summary": "From required courses to a timetable you can actually manage.",
+    "intro": "Start with your program requirements, then build a realistic weekly schedule. Course availability and enrollment rules depend on your student status and the current semester.",
+    "steps": [
+      [
+        "Start with the requirements",
+        "List your required courses and check prerequisites with your department. Separate must-take courses from electives before planning your week."
+      ],
+      [
+        "Read the current enrollment guide",
+        "Use the Curriculum Division’s New Student Navigator for the registration process, account access guidance, and common enrollment problems. Record the dates that apply to you."
+      ],
+      [
+        "Check the details before adding",
+        "Confirm the teaching language, campus, classroom, assessment method, and possible timetable conflicts. Leave travel time between campuses."
+      ],
+      [
+        "Verify your final enrollment",
+        "After each selection stage, check the actual enrollment result. Save your final timetable and check the instructor’s announced learning platform."
+      ]
+    ],
+    "tips": [
+      "Keep a backup elective in case a class is full.",
+      "A course on your planning list is not proof that you are enrolled."
+    ],
+    "checklist": [
+      "Read my program requirements",
+      "Check current registration dates",
+      "Prepare a backup course",
+      "Verify my final enrollment"
+    ],
+    "sources": [
+      [
+        "NTHU New Student Navigator",
+        "https://curricul.site.nthu.edu.tw/p/404-1208-307835.php?Lang=en"
+      ],
+      [
+        "Curriculum Division",
+        "https://curricul.site.nthu.edu.tw/index.php?Lang=en"
+      ]
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "slug": "study-spaces",
+    "title": "Find your focus on campus.",
+    "short": "Libraries & study spaces",
+    "category": "Academics",
+    "icon": "02",
+    "summary": "Build a study routine, find library resources, and check hours before you go.",
+    "intro": "The NTHU Library website is your starting point for study spaces and research resources. Opening hours vary by branch, semester, vacation period, and special announcements.",
+    "steps": [
+      [
+        "Check the right location",
+        "Choose the library branch or study area that fits your campus and schedule. Check its specific opening hours rather than assuming all spaces share the same schedule."
+      ],
+      [
+        "Match the space to the task",
+        "Use designated quiet spaces for individual study. For teamwork, check room availability and the applicable reservation and usage rules through the library."
+      ],
+      [
+        "Make research easier",
+        "Start with the library website when looking for books and research resources. Ask library staff for help with access or search questions."
+      ],
+      [
+        "Build a repeatable routine",
+        "Choose one realistic study block between classes. Bring your student card, charger, water, and the materials you need."
+      ]
+    ],
+    "tips": [
+      "Check the current announcement before planning a late-night session.",
+      "Plan breaks and leave shared spaces ready for the next person."
+    ],
+    "checklist": [
+      "Check branch opening hours",
+      "Find a suitable study spot",
+      "Bookmark the library website"
+    ],
+    "sources": [
+      [
+        "NTHU Library",
+        "https://www.lib.nthu.edu.tw/en/"
+      ],
+      [
+        "Library opening hours",
+        "https://www.lib.nthu.edu.tw/en/use/hours.html"
+      ]
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "slug": "getting-around",
+    "title": "Less rushing. More arriving.",
+    "short": "Getting around",
+    "category": "Campus life",
+    "icon": "03",
+    "summary": "Plan your journey between classrooms, the main campus, and Nanda.",
+    "intro": "Check which campus your class is on before planning the journey. NTHU publishes campus shuttle and Nanda–Main Campus shuttle announcements; current notices are more useful than a saved screenshot from an earlier semester.",
+    "steps": [
+      [
+        "Locate tomorrow’s classrooms",
+        "Check the building name and campus in your course information. Walk an unfamiliar route before your first class if possible."
+      ],
+      [
+        "Open the current shuttle notice",
+        "Use the Division of Physical Facilities website and select the timetable whose dates cover your journey. Check stop changes and service notices too."
+      ],
+      [
+        "Allow a buffer",
+        "Treat a route estimate as a planning aid. Leave extra time for walking to the stop, waiting, and finding the classroom."
+      ],
+      [
+        "Have a backup plan",
+        "If a shuttle does not fit your schedule, check another transport option before you leave. Confirm the actual service and fare with the provider."
+      ]
+    ],
+    "tips": [
+      "Main Campus and Nanda are different destinations; double-check the campus name.",
+      "Holiday and special-event schedules can differ from regular service."
+    ],
+    "checklist": [
+      "Identify my classroom campuses",
+      "Bookmark current shuttle notices",
+      "Try my first-day route"
+    ],
+    "sources": [
+      [
+        "Official shuttle timetables & notices",
+        "https://affairs.site.nthu.edu.tw/p/403-1165-1065-1.php?Lang=en"
+      ],
+      [
+        "Division of Physical Facilities",
+        "https://affairs.site.nthu.edu.tw/"
+      ]
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "slug": "dorm-life",
+    "title": "Turn a room into a routine.",
+    "short": "Dorm life essentials",
+    "category": "Campus life",
+    "icon": "04",
+    "summary": "A practical move-in plan for sharing space and settling in.",
+    "intro": "This is a suggested student checklist, not an official housing policy. Use your assigned residence’s current instructions for move-in dates, permitted items, payments, and building rules.",
+    "steps": [
+      [
+        "Read your move-in instructions",
+        "Confirm your assigned building, check-in arrangements, required documents, and any instructions sent by the university. Ask the housing contact if something is unclear."
+      ],
+      [
+        "Pack for the actual room",
+        "Check what is provided before buying bedding, adapters, or storage. Bring essentials first and make a second shopping list after you see the space."
+      ],
+      [
+        "Agree on shared-space habits",
+        "Discuss sleep schedules, cleaning, guests, and noise with roommates. Follow the residence rules when making your agreement."
+      ],
+      [
+        "Report problems early",
+        "Record existing damage and ask the residence staff how to request repairs. Keep the building’s contact details somewhere easy to find."
+      ]
+    ],
+    "tips": [
+      "Label shared items and agree before borrowing.",
+      "Avoid buying appliances before checking what your residence permits."
+    ],
+    "checklist": [
+      "Read my residence instructions",
+      "Confirm what my room provides",
+      "Discuss shared-space habits",
+      "Save my residence contact"
+    ],
+    "sources": [
+      [
+        "NTHU OGA: accommodation & transportation",
+        "https://www.oga.nthu.edu.tw/TabContentView/47"
+      ]
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "slug": "food-and-budget",
+    "title": "A little planning goes a long way.",
+    "short": "Food & daily budget",
+    "category": "Daily essentials",
+    "icon": "05",
+    "summary": "Create a spending plan that fits your own routine, one week at a time.",
+    "intro": "Use your own recent spending to make a realistic budget. The suggestions here are planning tips, not quoted NTHU prices or restaurant recommendations.",
+    "steps": [
+      [
+        "Track one ordinary week",
+        "Write down meals, transport, laundry, and other daily expenses. Include small purchases so your estimate reflects what you actually spend."
+      ],
+      [
+        "Separate regular and occasional costs",
+        "Keep recurring expenses apart from one-off purchases such as textbooks or room supplies. Set aside a buffer for unexpected needs."
+      ],
+      [
+        "Find a few reliable meal options",
+        "Explore choices near your usual classroom or residence. Check posted prices, opening times, and ingredients directly; ask staff about dietary needs."
+      ],
+      [
+        "Review without overcomplicating",
+        "Compare your planned and actual spending once a week. Adjust the plan rather than copying someone else’s budget."
+      ]
+    ],
+    "tips": [
+      "A busy day is easier with a backup meal plan.",
+      "Keep financial and identity details out of shared screenshots."
+    ],
+    "checklist": [
+      "Track a week of expenses",
+      "Set my own weekly budget",
+      "Find meal options near class"
+    ],
+    "sources": [
+      [
+        "NTHU Office of Global Affairs: campus life resources",
+        "https://oga.site.nthu.edu.tw/?Lang=en"
+      ]
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "slug": "international-students",
+    "title": "A new campus. A place to belong.",
+    "short": "International student support",
+    "category": "Daily essentials",
+    "icon": "06",
+    "summary": "Find the right university resources and start building your support network.",
+    "intro": "The Office of Global Affairs (OGA) provides international student resources, including campus life, scholarships, Mandarin study, and student events. Use current university guidance for any requirement that depends on your individual status.",
+    "steps": [
+      [
+        "Bookmark your starting points",
+        "Save the OGA website and your department’s contact information. Use the department for program-specific questions and OGA resources for international student support."
+      ],
+      [
+        "Keep your own deadline list",
+        "Read the official notices relevant to you and record action dates. For questions about documents or eligibility, ask the responsible office rather than relying on another student’s situation."
+      ],
+      [
+        "Make language practice manageable",
+        "Explore OGA’s Mandarin study and student event resources. Learn a few everyday campus phrases and practice in low-pressure conversations."
+      ],
+      [
+        "Build a small support network",
+        "Introduce yourself to classmates and attend an activity that interests you. Ask early when you are unsure which office or resource to use."
+      ]
+    ],
+    "tips": [
+      "Keep copies of important documents securely; do not upload them to this guide.",
+      "Requirements can differ between degree, exchange, and other student categories."
+    ],
+    "checklist": [
+      "Bookmark OGA resources",
+      "Save my department contact",
+      "Record my relevant deadlines",
+      "Explore a campus activity"
+    ],
+    "sources": [
+      [
+        "NTHU Office of Global Affairs",
+        "https://oga.site.nthu.edu.tw/?Lang=en"
+      ],
+      [
+        "New Student Navigator",
+        "https://curricul.site.nthu.edu.tw/p/404-1208-307835.php?Lang=en"
+      ]
+    ],
+    "updated": "2026-11-16"
+  }
+]
