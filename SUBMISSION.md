@@ -7,10 +7,10 @@ Replace the bracketed information with your own details.
 NTHU Fieldnotes is an unofficial English-language Student Survival Guide for National Tsing Hua University students. It helps new and continuing students find practical guidance on course selection, study spaces, campus transport, dorm life, daily budgeting, and international student support. It includes six guide pages, searchable category filters, a first-week checklist, and links to official university resources. Checklist progress is saved locally in the visitor's browser.
 
 ## GitHub repository
-
+https://github.com/AngielinaP/NTHU-student-guide
 
 ## Public webpage
-
+https://angielinap.github.io/NTHU-student-guide/
 
 ## AGENTS.md
 The project root includes AGENTS.md. A public copy is also available through the website footer. It defines the project purpose, technology, file structure, visual style, content schema, verification requirements, accessibility, and rules for future changes.
