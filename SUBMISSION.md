@@ -1,6 +1,6 @@
 # NTHU Student Survival Guide
 
-Submission title: NTHU [Student ID] [Department abbreviation] [Name] — NTHU Student Survival Guide
+Submission title: NTHU 115065434 IMPISA Angelina Panyananda — NTHU Student Survival Guide
 Replace the bracketed information with your own details.
 
 ## Project introduction
